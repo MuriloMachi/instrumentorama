@@ -1,0 +1,61 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.footer {
+    text-align: center;
+    font-size: large;
+}
+
+.ancora {
+    float: right;
+    padding-right: 3%;
+    margin-left: -15%;
+    margin-top: 1.2%;
+}
+
+.carousel-item {
+    overflow: hidden;
+    height: 300px;
+}
+
+.navbar-brand {
+    font-family: cursive;
+    font-size: 175%;
+}
+
+.sobre {
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 150%;
+}
+
+.cards-precos {
+    margin-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-text {
+    overflow: hidden;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.contato-bg {
+    padding: 5%;
+    margin: 5%;
+    background-color: #1d1d1d;
+    border-radius: 12px;
+    background-image: url("img/bg-ct.jpg");
+}
+
+.p-3 mb-2 bg-light text-dark{
+    border-radius: 12px;
+}
